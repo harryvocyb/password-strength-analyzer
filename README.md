@@ -1,12 +1,7 @@
 # 🔐 Password Strength Analyzer
-
 A command-line tool built in Python that evaluates password strength using entropy analysis, character diversity scoring, dictionary checks, and breach detection simulation.
-
 Built as part of my cybersecurity learning journey at Montgomery College.
 
----
-
-## 📸 Demo
 
 ```
 ==================================================
